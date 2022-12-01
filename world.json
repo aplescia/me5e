@@ -59,13 +59,13 @@
   ],
   "system": "dnd5e",
   "background": "https://assets.forge-vtt.com/600c8347ab68bf84a25dbaa8/masseffect.png",
-  "coreVersion": "10.288",
+  "coreVersion": "9.0",
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "2.0.3",
   "id": "mass-effect",
   "compatibility": {
-    "verified": "10.288",
-    "minimum": "10"
+    "verified": "9.0",
+    "minimum": "8.8"
   }
 }
