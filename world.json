@@ -1,0 +1,71 @@
+{
+  "title": "MASS EFFECT: QUARANTINE",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "mass-effect-classes",
+      "name": "mass-effect-classes",
+      "path": "packs/mass-effect-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Actor",
+      "flags": {}
+    },
+    {
+      "label": "mass-effect-backgrounds",
+      "name": "mass-effect-backgrounds",
+      "path": "packs/mass-effect-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Actor",
+      "flags": {}
+    },
+    {
+      "label": "mass-effect-feats",
+      "name": "mass-effect-feats",
+      "path": "packs/mass-effect-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Actor",
+      "flags": {}
+    },
+    {
+      "label": "mass-effect-races",
+      "name": "mass-effect-races",
+      "path": "packs/mass-effect-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Actor",
+      "flags": {}
+    },
+    {
+      "label": "mass-effect-racial-features",
+      "name": "mass-effect-racial-features",
+      "path": "packs/mass-effect-racial-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Actor",
+      "flags": {}
+    },
+    {
+      "label": "mass-effect-class-features",
+      "name": "mass-effect-class-features",
+      "path": "packs/mass-effect-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Actor",
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "background": "https://assets.forge-vtt.com/600c8347ab68bf84a25dbaa8/masseffect.png",
+  "coreVersion": "10.288",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.3",
+  "id": "mass-effect",
+  "compatibility": {
+    "verified": "10.288",
+    "minimum": "10"
+  }
+}
